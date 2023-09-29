@@ -1,7 +1,8 @@
-# FINE BANK 
+# LIGHT-BANK (discontinued/frozen)
 
 This is a remake of another project of mine, made during a python bootcamp. 
 [First-project]()
+
 
 ## INDEX
 
